@@ -1,0 +1,6 @@
+pluginclassname=MurmelnPlugin
+pluginname=Murmeln
+origin=Games
+version=1.2
+dbscheme=murmeln_install.sql
+uninstalldbscheme=murmeln_uninstall.sql
